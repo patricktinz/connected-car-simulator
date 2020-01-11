@@ -1,5 +1,4 @@
-# ss18-vs-tinz
-### Sensor
+# Sensor
 
 Build the program:  
 $ make
