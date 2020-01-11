@@ -1,5 +1,4 @@
-# ss18-vs-tinz
-### CentralControl
+# CentralControl
 
 Build the program:  
 $ make
