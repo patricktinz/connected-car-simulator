@@ -1,5 +1,4 @@
-# ss18-vs-tinz
-### Insurance
+# Insurance
 
 Build the program:  
 $ make
