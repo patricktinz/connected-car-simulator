@@ -1,5 +1,4 @@
-# ss18-vs-tinz
-### CarSimulaton
+# CarSimulaton
 
 Build the program:  
 $ make
