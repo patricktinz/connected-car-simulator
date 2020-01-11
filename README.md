@@ -1,5 +1,5 @@
 # connected-car-simulator
-A simple car simulation program.   
+A car simulation program.   
 
 > :warning:
 You have to install the boost library on your system.  
