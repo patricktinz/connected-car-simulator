@@ -1,4 +1,4 @@
-# CarSimulaton
+# CarSimulation
 
 Build the program:  
 $ make
