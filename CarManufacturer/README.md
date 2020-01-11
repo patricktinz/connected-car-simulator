@@ -1,4 +1,3 @@
-# ss18-vs-tinz
 ### CarManufacturer
 
 Build the program:  
